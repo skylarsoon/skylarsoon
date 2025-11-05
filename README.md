@@ -1,6 +1,6 @@
 # hey, i’m skylar 🧌
 
-i like building things that bring people together, and i'm hoping to make a positive impact on the world. thanks for stopping by.
+i like building things that make people happy and i'm hoping to make a positive impact on the world. thanks for stopping by.
 
 ---
 
@@ -24,4 +24,4 @@ i appreciate you!
 ---
 
 📫 **find me here:**  
-[linkedin](https://linkedin.com/in/skylarsoon) · [github](https://github.com/skylarsoon)
+[linkedin](https://linkedin.com/in/skylar-soon) · [github](https://github.com/skylarsoon)
