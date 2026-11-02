@@ -1,17 +1,19 @@
 # hey, i'm skylar 🧌
+
 i like building things that make people happy and i'm hoping to make a positive impact on the world. thanks for stopping by.
 
 ---
 
 ### what i've been up to lately
-- 🍲 **[Access to Excess](https://github.com/skylarsoon/Access-to-Excess)** — building a dynamic website for **Develop for Good** to help a food rescue nonprofit manage volunteers, blog posts, donations, and food donation/pick-up coordination.  
-- 🌍 **[CrowdPMPlatform](https://github.com/Denuo-Web/CrowdPMPlatform)** — working on an open-source platform for **crowdsourced air quality monitoring** using IoT sensors and map visualizations.  
-- 💡 **[Iris](https://github.com/tgondil/iris)** — a **CalHacks 12.0** project that won *2nd place on our track*! built a multimodal intelligent interface using **MediaPipe, OpenCV, Whisper.cpp, Letta and Vosk** in 36 hours.  
-- 🍰 **[Cheche's Baked Goods](https://github.com/skylarsoon/chechesbakedgoods)** — a simple React + Firebase site i made for a local baker to showcase her work and upload photos.  
+- 🤝 **[Tandem](https://devpost.com/software/tandem-bv9ujh)** — **CalHacks 13.0** a multi-agent behavioral group travel coordination and trip negotiation platform built with **LangGraph, SerpApi, Google Flights, and Duffel APIs**.
+- 💡 **[Iris](https://github.com/tgondil/iris)** — a **CalHacks 12.0** project that won *2nd place in our track*! built a hands-free browser automation system for individuals with paralysis using **MediaPipe, OpenCV, Whisper.cpp, FastAPI, WebSockets, and Letta**.
+- 🍲 **[Access to Excess](https://github.com/skylarsoon/Access-to-Excess)** — built a dynamic web app for **Develop for Good** to help a food rescue nonprofit manage volunteers, blog posts, donations, and food pick-up coordination.  
 
 ---
 
 ### other stuff
+- 🌍 **[CrowdPMPlatform](https://github.com/Denuo-Web/CrowdPMPlatform)** — an open-source platform for crowdsourced air quality monitoring using IoT sensors and map visualizations. 
+- 🍰 **[Cheche's Baked Goods](https://github.com/skylarsoon/chechesbakedgoods)** — a simple React + Firebase site made for a local baker to showcase her work and upload photos.  
 - 📚 **[Tarpaulin](https://github.com/skylarsoon/tarpaulin)** — a lightweight Flask REST API for course management (similar to Canvas). uses **Google Datastore, Cloud Storage, Auth0 and JWT** for secure endpoint access.  
 - 👐 made a small contribution to **[OpenMultipleChoice](https://github.com/openmultiplechoice/openmultiplechoice/pull/1133)**, an open-source education project.  
 - ⚙️ some **C++ coursework** here: [CS162 Assignments](https://github.com/skylarsoon/cs162-assignments).  
